@@ -1,5 +1,7 @@
 ## Список студентов на JavaScript   
 
+<img width="1371" alt="Снимок экрана 2024-04-29 в 18 10 27" src="https://github.com/Frontess/Students-list/assets/127450758/8fdf1a66-ac04-4ea1-8fa9-bb87a4c0d144">
+
 ****
 
 ### Сервис представляет собой инструмент для работы с данными:    
